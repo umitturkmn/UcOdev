@@ -1,0 +1,11 @@
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/UcOdev/bin/Debug/net6.0/UcOdev
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/UcOdev/bin/Debug/net6.0/UcOdev.dll
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/UcOdev/bin/Debug/net6.0/UcOdev.pdb
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/UcOdev/obj/Debug/net6.0/UcOdev.csproj.AssemblyReference.cache
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/UcOdev/obj/Debug/net6.0/UcOdev.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/UcOdev/obj/Debug/net6.0/UcOdev.AssemblyInfoInputs.cache
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/UcOdev/obj/Debug/net6.0/UcOdev.AssemblyInfo.cs
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/UcOdev/obj/Debug/net6.0/UcOdev.csproj.CoreCompileInputs.cache
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/UcOdev/obj/Debug/net6.0/UcOdev.dll
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/UcOdev/obj/Debug/net6.0/ref/UcOdev.dll
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/UcOdev/obj/Debug/net6.0/UcOdev.pdb
